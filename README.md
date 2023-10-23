@@ -42,7 +42,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [What makes for a successful CEO and CTO relationship in a startup?](https://www.quora.com/What-makes-for-a-successful-CEO-and-CTO-relationship-in-a-startup) *(Quora)*
  * [#define CTO](https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe) - Greg Brockman *(Stripe CTO)*
  * [How my role as CTO has changed as we've grown to 100 engineers](https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/)
- * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/)
+ * [Your first 90 days as CTO or VP Engineering](https://lethain.com/first-ninety-days-cto-vpe/) - Will Larson
+ * [How to spend your first 30 days in a new senior-level role](https://larahogan.me/blog/first-30-days-new-role/)
  * [The difference between a CTO and a VP Engineering](https://www.linkedin.com/pulse/20140615184118-4928723-the-differences-between-a-cto-and-a-vp-engineering/)
 
 
@@ -64,10 +65,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Lessons from Keith Rabois: How to Interview an Executive](https://delian.io/lessons-2)
  * [Lessons from Keith Rabois: How to Become a Magnet for Talent](https://delian.io/lessons-5)
  * [GitLab Talent Acquisition Framework](https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/)
- * Reverse Interview
-   * [The Reverse Interview: How To Choose Your Next Company](https://www.reforge.com/blog/reverse-interview)
-   * [Reverse Interviewing — How to interview a company as well as they interview you](https://www.fishmanafnewsletter.com/p/how-to-reverse-interview)
-   * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview) *(GitHub)*
+ * [Visualizing Tech Company Layoffs in 2022](https://www.visualcapitalist.com/visualizing-tech-company-layoffs-in-2022/)
 
 
 ## People Management
@@ -91,9 +89,10 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [A Tactical Guide to Managing Up](https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know)
  * [Engineering Management](https://github.com/charlax/engineering-management) *(Github)*
  * [On-boarding Software Engineers](https://medium.com/@odedmagger/on-boarding-software-engineers-10-techniques-to-get-it-right-927cb73e3dab)
- * [Hold Your Team Accountable](https://marker.medium.com/how-to-hold-your-team-accountable-9fa57bfb315d)
+ * [Hold Your Team Accountable](https://www.dave-bailey.com/blog/accountability-dial)
  * [The Manager FAQ](https://www.seebs.net/faqs/manager.html)
  * [The Power of Performance Reviews](https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/)
+ * [Performance reviews are coming up](https://www.linkedin.com/posts/gergelyorosz_performancereviews-softwarengineering-career-activity-7008079544171528192-D2fF/) - Gergely Orosz
  * [Principles of Engineering Management](https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b)
  * [Compensation Best Practices](https://www.payscale.com/cbpr)
  * [Draw The Owl and Other Company Values You Didn’t Know You Should Have](https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/)
@@ -113,6 +112,10 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [10 ideas for building great culture in a distributed (remote) team](https://twitter.com/nathanbarry/status/1520442729397858304)
  * [Adapting to Endure / Crisis management](https://www.sequoiacap.com/adapting-to-endure-2022/) - Sequoia
  * [Mochary Method Curriculum](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/preview) - Matt Mochary
+ * [Meetings for an effective eng organization](https://lethain.com/eng-org-meetings/) - Will Larson
+ * [The One Key to Dealing with Senior Executives: Answer the Question!](https://kellblog.com/2012/01/17/the-one-key-to-dealing-with-senior-executives-answer-the-question/)
+ * [Step by step guide to building high performing teams](https://mm-coaches.notion.site/Step-by-step-guide-to-building-high-performing-teams-a1d3c70c031144738943e043933d3267)
+ * [Cycle times](https://boz.com/articles/cycle-times) - Andrew Bosworth
 
 
 ## Career growth
@@ -120,14 +123,19 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Software Engineers Growth framework](https://prontopro.engineering/blog/software-engineer-growth-framework)
  * [Software Engineering Ladders](https://github.com/jorgef/engineeringladders) *(GitHub)*
  * [Awesome Engineering Ladders](https://github.com/posquit0/awesome-engineering-ladders) *(GitHub)*
+ * Reverse Interview
+   * [The Reverse Interview: How To Choose Your Next Company](https://www.reforge.com/blog/reverse-interview)
+   * [Reverse Interviewing — How to interview a company as well as they interview you](https://www.fishmanafnewsletter.com/p/how-to-reverse-interview)
+   * [Reverse Interview Questions](https://github.com/viraptor/reverse-interview) *(GitHub)*
 
 ## Project management
 
  * [Evidence Based Scheduling](https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/) - Joel Spolsky *(StackOverflow co-founder)*
- * [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+ * [How Big Tech Runs Tech Projects and the Curious Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech) - Gergely Orosz
  * [The Secret to a Great Planning Process — Lessons from Airbnb and Eventbrite](https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite)
- * [What TPMs Do and What Software Engineers Can Learn From Them](https://newsletter.pragmaticengineer.com/p/what-tpms-do)
+ * [What TPMs Do and What Software Engineers Can Learn From Them](https://newsletter.pragmaticengineer.com/p/what-tpms-do) - Gergely Orosz
  * [How to Scope a New Feature](https://www.prodify.group/blog/how-to-scope-a-new-feature)
+ * [Measuring an engineering organization](https://lethain.com/measuring-engineering-organizations/) - Will Larson
 
 
 ## Handbooks
@@ -160,6 +168,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Startup Lessons Learned - Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries *(creator of the Lean Startup)*
    * [On Call Rotations: How Best to Wake Devs Up in the Middle of the Night](https://thenewstack.io/call-rotations-best-wake-devs-middle-night/)
    * [Testing in Production, the safe way](https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1)
+ * Error handling
+   * [When life gives you lemons, write better error messages](https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f)
 
 
 ## Architecture
@@ -168,10 +178,12 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Reactive Manifesto](https://www.reactivemanifesto.org)
  * [An introduction to distributed systems](https://github.com/aphyr/distsys-class) - Kyle Kingsbury *(aphyr, author of Jepsen)*
  * [Microservices – Please, don’t](https://riak.com/posts/technical/microservices-please-dont/) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=12508655))
+ * [GitHub CTO – Biggest architectural mistake was going full microservice](https://twitter.com/jasoncwarner/status/1592227285024636928) (also: [HackerNews discussion](https://news.ycombinator.com/item?id=33601658))
  * [The Death of Microservice Madness in 2018](https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
  * [Shrinking microservices to functions](https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html)
  * [Design patterns for microservices](https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/)
  * [Serverless architecture](https://www.quora.com/What-is-Serverless-Computing) *(Quora)*
+   * [Serverless framework](https://www.serverless.com)
  * [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
  * [10 Modern Software Over-Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8)
  * [How I Write Tests](https://blog.nelhage.com/2016/12/how-i-test/)
@@ -179,13 +191,15 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) *(GitHub)*
  * [The Single Most Important Internal Email in the History of Amazon](https://www.sametab.com/blog/frameworks-for-remote-working)
  * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x) *(GitHub)*
+ * [Accentuate the negative: making the non-perfect decision. Technical decision making](https://leaddev.com/technical-decision-making/accentuate-negative-making-non-perfect-decision)
 
 
 ## Technologies
 
  * General
-   * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
+   * [Developer Roadmaps](https://github.com/kamranahmedse/developer-roadmap) *(GitHub)*
    * [Coding Interview University](https://github.com/jwasham/coding-interview-university) *(GitHub)*
+   * [Big-O explained in plain English](https://stackoverflow.com/a/487278/472433)
  * Javascript
    * [JS: The Right Way](http://jstherightway.org)
    * [Frontend developer handbook 2019](https://frontendmasters.com/guides/front-end-handbook/2019/)
@@ -193,7 +207,8 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [What is CAP Theorem?](https://www.quora.com/What-Is-CAP-Theorem-1) *(Quora)*
    * [CAP Theorem: Revisited](https://robertgreiner.com/cap-theorem-revisited/)
  * Security
-   * [SaaS CTO Security Checklist](https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
+   * [Awesome Security](https://github.com/sbilly/awesome-security) *(GitHub)*
+   * [SaaS CTO Security Checklist](https://web.archive.org/web/20230324072622/https://www.goldfiglabs.com/guide/saas-cto-security-checklist/)
  * Search
    * [Open Guide to Search Engineering](https://github.com/open-guides/og-search-engineering) *(GitHub)*
  * Cloud
@@ -202,6 +217,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [Microsoft Azure in Plain English](https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english)
    * [Google Cloud Services for the AWS expert](https://cloudacademy.com/blog/google-cloud-services-aws-expert/)
  * Pricing
+   * [Awesome Billing](https://github.com/kdeldycke/awesome-billing) *(GitHub)*
    * [Awesome PriceOps](https://github.com/priceops/awesome-priceops) *(GitHub)*
 
 
@@ -213,6 +229,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [A reference guide for fintech & small-data engineering](https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90)
  * [Building a data team at a mid-stage startup: a short story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
  * [DataOps](https://en.wikipedia.org/wiki/Dataops)
+ * [Databases in 2022: A Year in Review](https://ottertune.com/blog/2022-databases-retrospective/)
  * Data Science
    * [Building a data science team](https://fastdatascience.com/building-a-data-science-team/)
    * [Managing Data Science Teams](https://www.dominodatalab.com/resources/field-guide/managing-data-science-teams/)
@@ -258,6 +275,9 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
    * [How To Invest In Startups](https://blog.samaltman.com/how-to-invest-in-startups) - Sam Altman
    * [A Guide to Seed Fundraising](https://blog.ycombinator.com/how-to-raise-a-seed-round/)
    * [Startup Economics equity calculator](https://smartasset.com/infographic/startup)
+   * [Option grants at seed](https://www.indexventures.com/rewardingtalent/option-grants-at-seed)
+   * [Joining the new startup, with a handsome stock option allocation](https://twitter.com/gergelyorosz/status/1601134509424267264) - Gergely Orosz
+   * [Equity 101 for Software Engineers at Big Tech and Startups](https://blog.pragmaticengineer.com/equity-for-software-engineers/) - Gergely Orosz
  * Big companies
    * [Financial Planning & Analysis @ GitLab](https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/)
    * [Framework for balancing and budgeting engineering resourcing](https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c)
@@ -275,7 +295,7 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [2016 European Software Development Salary Survey](http://web.archive.org/web/20170412051943/https://www.oreilly.com/programming/free/files/2016-european-software-development-salary-survey.pdf) *(O'Reilly)*
  * [DevOps: Bringing development and operations together](https://www.atlassian.com/devops) *(Atlassian)*
  * [How to Prepare a Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk)
- * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/)
+ * [Undervalued Software Engineering Skills: Writing Well](https://blog.pragmaticengineer.com/on-writing-well/) - Gergely Orosz
  * [The Pyramid Principle](https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7)
  * [Senior Engineer’s Checklist](https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2)
  * [How to Use OpenAPI and Swagger for Documentation](https://blog.readme.com/how-to-use-openapi-and-swagger-spec-for-documentation/)
@@ -329,9 +349,13 @@ A curated and **opinionated** list of resources for [Chief Technology Officers a
  * [Free Tools for Developers](https://free-for.dev)
  * [NfX - The Founder Library](https://www.nfx.com)
  * [foundr - Advices from founders](https://foundr.com/articles)
+ * [The Leadership Library for Engineers](https://leadership-library.dev)
+ * [Rands Leadership Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/)
+ * [Engineering Managers Slack](https://engmanagers.github.io)
 
 
 ## Other
+- [Awesome CEO](https://github.com/kuchin/awesome-ceo) *(GitHub)*
 - [Awesome TPM](https://github.com/kuchin/awesome-tpm) *(GitHub)*
 
 
